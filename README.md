@@ -19,6 +19,38 @@ The exigency of comprehending the idiosyncrasies and trends within the electrici
 8. Model Evaluation and Fine-tuning
 9. Interpretation and Insights
 
+# THE Results
+## Regression model 
+$${R}^ 2 = 0.89$$
+
+* Train mean squared error: 0.0022 
+* Test mean squared error: 0.0006 
+-----------------------------------------------------
+* Train mean abosolute error: 0.0303 
+* Test mean abosolute error: 0.0174 
+
+
+## Classification model
+$${Accuracy Score} = 0.76$$
+
+**Train**:
+
+* **Accuracy Score**: 0.8
+* **Precision Score**: 0.96
+* **Recall Score**: 0.78
+* **F1 Score**: 0.82
+* **AUC Score**: 0.82
+
+-----------------------------------------------------
+
+**Test**:
+
+* **Accuracy Score**: 0.76
+* **Precision Score**: 0.88
+* **Recall Score**: 0.7
+* **F1 Score**: 0.78
+* **AUC Score**: 0.78
+
 # Project plots:
 
 ## Model predictions:
